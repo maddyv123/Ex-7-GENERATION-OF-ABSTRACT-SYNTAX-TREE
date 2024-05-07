@@ -1,5 +1,7 @@
 # Ex-7-GENERATION-OF-ABSTRACT-SYNTAX-TREE
 CONVERSION OF THE BNF RULES INTO YACC FORM AND GENERATION OF ABSTRACT SYNTAX TREE
+# Name:Mathavan V
+# Register No:212223110026
 # Date:
 # Aim: 
 To write a program to convert the BNF rules into YACC form and to generate Abstract Syntax Tree.
